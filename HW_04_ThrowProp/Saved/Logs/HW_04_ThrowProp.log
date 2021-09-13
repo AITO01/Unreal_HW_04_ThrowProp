@@ -16532,3 +16532,272 @@ Make sure 'BP_玩家控制_C' has been compiled for  Get 子彈總數量
 [2021.09.13-15.03.04:591][257]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Saved/BP_玩家控制3957A90B479F3AFB6D46099ED232A8CD.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/BP/BP_玩家控制.uasset'
 [2021.09.13-15.03.04:615][257]AssetCheck: New page: Asset Save: BP_玩家控制
 [2021.09.13-15.03.04:615][257]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.09.13-15.04.44:206][778]BlueprintLog: New page: Compile BP_武器
+[2021.09.13-15.04.44:307][778]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2021.09.13-15.04.53:282][182]BlueprintLog: New page: Compile BP_武器
+[2021.09.13-15.04.53:309][182]LogClass: Warning: Type mismatch in 開槍間隔 of BP_武器_C - Previous (BoolProperty) Current(FloatProperty) for package:  FObjectReader
+[2021.09.13-15.04.53:381][182]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2021.09.13-15.04.54:000][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/BP/BP_武器.uasset" SILENT=true
+[2021.09.13-15.04.54:024][238]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Saved/BP_武器79E301A648500AFE4E8476A802A3A553.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/BP/BP_武器.uasset'
+[2021.09.13-15.04.54:071][238]AssetCheck: New page: Asset Save: BP_武器
+[2021.09.13-15.04.54:072][238]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.09.13-15.07.47:538][871]BlueprintLog: New page: Compile BP_武器
+[2021.09.13-15.07.47:622][871]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2021.09.13-15.07.48:420][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/BP/BP_武器.uasset" SILENT=true
+[2021.09.13-15.07.48:444][947]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Saved/BP_武器184CD0ED4FCE6077E3B2F3904C492EC1.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/BP/BP_武器.uasset'
+[2021.09.13-15.07.48:464][947]AssetCheck: New page: Asset Save: BP_武器
+[2021.09.13-15.07.48:464][947]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.09.13-15.08.12:680][165]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.13-15.08.12:687][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.13-15.08.12:687][165]PIE: New page: PIE session: 射擊場地 (2021年9月14日 上午7:08:12)
+[2021.09.13-15.08.12:687][165]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_射擊場地
+[2021.09.13-15.08.12:699][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011733s)
+[2021.09.13-15.08.12:701][165]LogAIModule: Creating AISystem for world 射擊場地
+[2021.09.13-15.08.12:701][165]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2021.09.13-15.08.12:701][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/射擊場地.射擊場地 to /Game/地圖/UEDPIE_0_射擊場地.射擊場地 (0.013200s)
+[2021.09.13-15.08.12:754][165]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2021.09.13-15.08.12:755][165]LogAudio: Display: Creating Audio Device:                 Id: 124, Scope: Unique, Realtime: True
+[2021.09.13-15.08.12:756][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.13-15.08.12:756][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.13-15.08.12:756][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.13-15.08.12:756][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.13-15.08.12:756][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.13-15.08.12:756][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.13-15.08.12:756][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.13-15.08.12:756][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.13-15.08.12:756][165]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.13-15.08.12:756][165]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.13-15.08.12:760][165]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.13-15.08.12:760][165]LogAudioMixer: Display: 1: FrontRight
+[2021.09.13-15.08.12:776][165]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.13-15.08.12:776][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.13-15.08.12:776][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.13-15.08.12:776][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.13-15.08.12:777][165]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.13-15.08.12:778][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.13-15.08.12:778][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.13-15.08.12:792][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.13-15.08.12:792][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.13-15.08.12:792][165]LogInit: FAudioDevice initialized.
+[2021.09.13-15.08.12:793][165]LogAudio: Display: Audio Device (ID: 124) registered with world '射擊場地'.
+[2021.09.13-15.08.12:860][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-15.08.12:860][165]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.13-15.08.12:862][165]LogWorld: Bringing World /Game/地圖/UEDPIE_0_射擊場地.射擊場地 up for play (max tick rate 0) at 2021.09.13-23.08.12
+[2021.09.13-15.08.12:862][165]LogWorld: Bringing up level for play took: 0.001075
+[2021.09.13-15.08.12:862][165]LogOnline: OSS: Creating online subsystem instance for: :Context_153
+[2021.09.13-15.08.12:869][165]PIE: Server logged in
+[2021.09.13-15.08.12:871][165]PIE: Play in editor total start time 0.184 seconds.
+[2021.09.13-15.08.23:626][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-15.08.23:626][401]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_射擊場地
+[2021.09.13-15.08.23:627][401]LogSlate: Window 'HW_04_ThrowProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.13-15.08.23:633][401]LogWorld: UWorld::CleanupWorld for 射擊場地, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-15.08.23:633][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-15.08.23:642][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.13-15.08.23:666][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-15.08.23:714][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.13-15.08.23:714][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-15.08.23:715][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-15.08.23:738][401]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.09.13-15.08.23:763][402]LogPlayLevel: Display: Destroying online subsystem :Context_153
+[2021.09.13-15.09.03:017][206]BlueprintLog: New page: Compile BP_武器
+[2021.09.13-15.09.03:097][206]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2021.09.13-15.09.03:652][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/BP/BP_武器.uasset" SILENT=true
+[2021.09.13-15.09.03:677][255]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Saved/BP_武器9388363748625FD595115C8A5259334B.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/BP/BP_武器.uasset'
+[2021.09.13-15.09.03:691][255]AssetCheck: New page: Asset Save: BP_武器
+[2021.09.13-15.09.03:691][255]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.09.13-15.28.47:773][260]LogEditorTransaction: Undo Move Nodes
+[2021.09.13-15.29.58:493][ 34]BlueprintLog: New page: Compile BP_武器
+[2021.09.13-15.29.58:583][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2021.09.13-15.31.58:611][247]BlueprintLog: New page: Compile BP_武器
+[2021.09.13-15.31.58:694][247]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2021.09.13-15.31.59:847][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/BP/BP_武器.uasset" SILENT=true
+[2021.09.13-15.31.59:874][355]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Saved/BP_武器DFCD25E344A606DCB926CAAE39DF1CD0.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/BP/BP_武器.uasset'
+[2021.09.13-15.31.59:890][355]AssetCheck: New page: Asset Save: BP_武器
+[2021.09.13-15.31.59:890][355]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.09.13-15.32.46:930][323]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2021.09.13-15.32.46:931][323]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/射擊場地' took 0.057
+[2021.09.13-15.32.46:931][323]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_武器] ([2] browsable assets)...
+[2021.09.13-15.32.46:943][323]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_武器.BP_武器]
+[2021.09.13-15.32.46:953][323]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_武器.BP_武器]
+[2021.09.13-15.32.46:953][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_武器]
+[2021.09.13-15.32.46:953][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Saved/Autosaves/Game/BP/BP_武器_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.09.13-15.32.46:979][323]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Saved/BP_武器_Auto4077C6E674F1E5BCB510003B431B78A15.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Saved/Autosaves/Game/BP/BP_武器_Auto4.uasset'
+[2021.09.13-15.32.46:981][323]LogFileHelpers: Auto-saving content packages took 0.049
+[2021.09.13-15.33.03:960][668]LogEditorTransaction: Undo Move Nodes
+[2021.09.13-15.35.13:832][ 59]BlueprintLog: New page: Compile BP_武器
+[2021.09.13-15.35.13:916][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2021.09.13-15.35.14:523][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/BP/BP_武器.uasset" SILENT=true
+[2021.09.13-15.35.14:550][111]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Saved/BP_武器15B893014B2E4FF7C1F14D8F14C95FA7.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/BP/BP_武器.uasset'
+[2021.09.13-15.35.14:585][111]AssetCheck: New page: Asset Save: BP_武器
+[2021.09.13-15.35.14:585][111]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.09.13-15.35.16:562][212]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.13-15.35.16:569][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.13-15.35.16:569][212]PIE: New page: PIE session: 射擊場地 (2021年9月14日 上午7:35:16)
+[2021.09.13-15.35.16:569][212]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_射擊場地
+[2021.09.13-15.35.16:582][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011758s)
+[2021.09.13-15.35.16:583][212]LogAIModule: Creating AISystem for world 射擊場地
+[2021.09.13-15.35.16:583][212]LogPlayLevel: PIE: World Init took: (0.001384s)
+[2021.09.13-15.35.16:583][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/射擊場地.射擊場地 to /Game/地圖/UEDPIE_0_射擊場地.射擊場地 (0.013301s)
+[2021.09.13-15.35.16:635][212]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.09.13-15.35.16:637][212]LogAudio: Display: Creating Audio Device:                 Id: 125, Scope: Unique, Realtime: True
+[2021.09.13-15.35.16:637][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.13-15.35.16:637][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.13-15.35.16:637][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.13-15.35.16:637][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.13-15.35.16:637][212]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.13-15.35.16:637][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.13-15.35.16:637][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.13-15.35.16:637][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.13-15.35.16:637][212]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.13-15.35.16:637][212]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.13-15.35.16:642][212]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.13-15.35.16:642][212]LogAudioMixer: Display: 1: FrontRight
+[2021.09.13-15.35.16:656][212]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.13-15.35.16:657][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.13-15.35.16:657][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.13-15.35.16:657][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.13-15.35.16:657][212]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.13-15.35.16:657][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.13-15.35.16:657][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.13-15.35.16:676][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.13-15.35.16:676][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.13-15.35.16:676][212]LogInit: FAudioDevice initialized.
+[2021.09.13-15.35.16:676][212]LogAudio: Display: Audio Device (ID: 125) registered with world '射擊場地'.
+[2021.09.13-15.35.16:741][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-15.35.16:741][212]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.13-15.35.16:743][212]LogWorld: Bringing World /Game/地圖/UEDPIE_0_射擊場地.射擊場地 up for play (max tick rate 0) at 2021.09.13-23.35.16
+[2021.09.13-15.35.16:743][212]LogWorld: Bringing up level for play took: 0.001061
+[2021.09.13-15.35.16:743][212]LogOnline: OSS: Creating online subsystem instance for: :Context_154
+[2021.09.13-15.35.16:751][212]PIE: Server logged in
+[2021.09.13-15.35.16:752][212]PIE: Play in editor total start time 0.185 seconds.
+[2021.09.13-15.35.28:515][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-15.35.28:516][335]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_射擊場地
+[2021.09.13-15.35.28:516][335]LogSlate: Window 'HW_04_ThrowProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.13-15.35.28:522][335]LogWorld: UWorld::CleanupWorld for 射擊場地, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-15.35.28:522][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-15.35.28:528][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.13-15.35.28:553][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-15.35.28:601][335]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.13-15.35.28:602][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-15.35.28:603][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-15.35.28:626][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.09.13-15.35.28:656][336]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2021.09.13-15.35.41:744][ 83]BlueprintLog: New page: Compile BP_武器
+[2021.09.13-15.35.41:828][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.09.13-15.35.42:818][169]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.13-15.35.42:824][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.13-15.35.42:824][169]PIE: New page: PIE session: 射擊場地 (2021年9月14日 上午7:35:42)
+[2021.09.13-15.35.42:824][169]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_射擊場地
+[2021.09.13-15.35.42:835][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010921s)
+[2021.09.13-15.35.42:836][169]LogAIModule: Creating AISystem for world 射擊場地
+[2021.09.13-15.35.42:836][169]LogPlayLevel: PIE: World Init took: (0.001607s)
+[2021.09.13-15.35.42:836][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/射擊場地.射擊場地 to /Game/地圖/UEDPIE_0_射擊場地.射擊場地 (0.012674s)
+[2021.09.13-15.35.42:890][169]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2021.09.13-15.35.42:891][169]LogAudio: Display: Creating Audio Device:                 Id: 126, Scope: Unique, Realtime: True
+[2021.09.13-15.35.42:891][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.13-15.35.42:891][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.13-15.35.42:891][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.13-15.35.42:891][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.13-15.35.42:891][169]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.13-15.35.42:891][169]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.13-15.35.42:892][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.13-15.35.42:892][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.13-15.35.42:892][169]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.13-15.35.42:892][169]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.13-15.35.42:897][169]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.13-15.35.42:897][169]LogAudioMixer: Display: 1: FrontRight
+[2021.09.13-15.35.42:911][169]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.13-15.35.42:911][169]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.13-15.35.42:911][169]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.13-15.35.42:911][169]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.13-15.35.42:912][169]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.13-15.35.42:912][169]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.13-15.35.42:912][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.13-15.35.42:925][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.13-15.35.42:925][169]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.13-15.35.42:925][169]LogInit: FAudioDevice initialized.
+[2021.09.13-15.35.42:925][169]LogAudio: Display: Audio Device (ID: 126) registered with world '射擊場地'.
+[2021.09.13-15.35.42:974][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-15.35.42:974][169]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.13-15.35.42:976][169]LogWorld: Bringing World /Game/地圖/UEDPIE_0_射擊場地.射擊場地 up for play (max tick rate 0) at 2021.09.13-23.35.42
+[2021.09.13-15.35.42:976][169]LogWorld: Bringing up level for play took: 0.001050
+[2021.09.13-15.35.42:977][169]LogOnline: OSS: Creating online subsystem instance for: :Context_155
+[2021.09.13-15.35.42:983][169]PIE: Server logged in
+[2021.09.13-15.35.42:985][169]PIE: Play in editor total start time 0.162 seconds.
+[2021.09.13-15.35.57:185][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-15.35.57:185][423]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_射擊場地
+[2021.09.13-15.35.57:187][423]LogSlate: Window 'HW_04_ThrowProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.13-15.35.57:202][423]LogWorld: UWorld::CleanupWorld for 射擊場地, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-15.35.57:203][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-15.35.57:218][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.13-15.35.57:243][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-15.35.57:287][423]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.13-15.35.57:288][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-15.35.57:289][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-15.35.57:313][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.09.13-15.35.57:348][424]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2021.09.13-15.36.03:110][550]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.13-15.36.03:117][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.13-15.36.03:117][550]PIE: New page: PIE session: 射擊場地 (2021年9月14日 上午7:36:03)
+[2021.09.13-15.36.03:117][550]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_射擊場地
+[2021.09.13-15.36.03:129][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011772s)
+[2021.09.13-15.36.03:130][550]LogAIModule: Creating AISystem for world 射擊場地
+[2021.09.13-15.36.03:130][550]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2021.09.13-15.36.03:130][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/射擊場地.射擊場地 to /Game/地圖/UEDPIE_0_射擊場地.射擊場地 (0.013052s)
+[2021.09.13-15.36.03:177][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.09.13-15.36.03:178][550]LogAudio: Display: Creating Audio Device:                 Id: 127, Scope: Unique, Realtime: True
+[2021.09.13-15.36.03:178][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.13-15.36.03:179][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.13-15.36.03:179][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.13-15.36.03:179][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.13-15.36.03:179][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.13-15.36.03:179][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.13-15.36.03:179][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.13-15.36.03:179][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.13-15.36.03:179][550]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.13-15.36.03:179][550]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.13-15.36.03:185][550]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.13-15.36.03:185][550]LogAudioMixer: Display: 1: FrontRight
+[2021.09.13-15.36.03:199][550]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.13-15.36.03:200][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.13-15.36.03:200][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.13-15.36.03:200][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.13-15.36.03:200][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.13-15.36.03:200][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.13-15.36.03:200][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.13-15.36.03:215][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.13-15.36.03:215][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.13-15.36.03:215][550]LogInit: FAudioDevice initialized.
+[2021.09.13-15.36.03:215][550]LogAudio: Display: Audio Device (ID: 127) registered with world '射擊場地'.
+[2021.09.13-15.36.03:283][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-15.36.03:283][550]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.13-15.36.03:285][550]LogWorld: Bringing World /Game/地圖/UEDPIE_0_射擊場地.射擊場地 up for play (max tick rate 0) at 2021.09.13-23.36.03
+[2021.09.13-15.36.03:285][550]LogWorld: Bringing up level for play took: 0.000988
+[2021.09.13-15.36.03:285][550]LogOnline: OSS: Creating online subsystem instance for: :Context_156
+[2021.09.13-15.36.03:291][550]PIE: Server logged in
+[2021.09.13-15.36.03:293][550]PIE: Play in editor total start time 0.177 seconds.
+[2021.09.13-15.36.08:275][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-15.36.08:275][  5]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_射擊場地
+[2021.09.13-15.36.08:276][  5]LogSlate: Window 'HW_04_ThrowProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.13-15.36.08:282][  5]LogWorld: UWorld::CleanupWorld for 射擊場地, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-15.36.08:282][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-15.36.08:292][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.13-15.36.08:316][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-15.36.08:361][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-15.36.08:362][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-15.36.08:383][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.09.13-15.36.08:417][  6]LogPlayLevel: Display: Destroying online subsystem :Context_156
+[2021.09.13-15.40.17:174][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/射擊場地" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/地圖/射擊場地.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.13-15.40.17:226][302]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.09.13-15.40.17:247][302]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Saved/射擊場地704B34414F4AF89B0F8D6797AAC91568.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/地圖/射擊場地.umap'
+[2021.09.13-15.40.17:258][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/射擊場地_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/地圖/射擊場地_BuiltData.uasset" SILENT=true
+[2021.09.13-15.40.17:365][302]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Saved/射擊場地_BuiltDataB12B7FB04EF04075B62A8FBC05768820.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/地圖/射擊場地_BuiltData.uasset'
+[2021.09.13-15.40.17:381][302]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.13-15.40.17:381][302]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/射擊場地_BuiltData.射擊場地_BuiltData
+[2021.09.13-15.40.17:381][302]LogContentValidation: Display: Validating World /Game/地圖/射擊場地.射擊場地
+[2021.09.13-15.40.18:522][405]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.09.13-15.40.20:209][405]LogSlate: Window 'Save Content' being destroyed
+[2021.09.13-15.40.20:263][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/BP/BP_武器.uasset" SILENT=true
+[2021.09.13-15.40.20:292][405]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Saved/BP_武器232DE9824C57A690B08FA5B8301C7EAD.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_04_ThrowProp/HW_04_ThrowProp/Content/BP/BP_武器.uasset'
+[2021.09.13-15.40.20:306][405]AssetCheck: New page: Asset Save: BP_武器
+[2021.09.13-15.40.20:306][405]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
